@@ -8,5 +8,6 @@
 </head>
 <body>
 test1.jsp수정
+   update2
 </body>
 </html>
